@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# taxi
-=======
-# taxi
->>>>>>> origin/main
 #  🚖 **Taxi service**
 The application describes the operation of the taxi service. </br>
 To implement the application were created: </br>
