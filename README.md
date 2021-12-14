@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - [x] Install MySQL and MySQL Workbench
 - [x] Configure Apache Tomcat
 - [x] In `pom.xml` change to the absolute path         
-  `PATH TO checkstyle.xml`
+  `PATH TO checkstyle.xml` </br>
   ![This is an image](http://joxi.ru/DmB6xRGcqwgkxm.jpg)
 - [x] In `log4j2.xml` change to the absolute path
   `PATH TO app.log`
