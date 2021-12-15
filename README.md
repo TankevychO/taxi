@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - [x] Configure Apache Tomcat
 - [x] Change the absolute path to checkstyle.xml in `pom.xml` </br>
   ![This is an image](http://joxi.ru/DmB6xRGcqwgkxm.jpg)
-- [x] Change absolute path to your log file in `log4j2.xml` </br>
+- [x] Change the absolute path to your log file in `log4j2.xml` </br>
   ![This is an image](http://joxi.ru/zANxkBLU1B8okm.jpg)
 - [x] Run script from the resources/init_db.sql file in the Workbench.
 - [x] Change `URL`, `USERNAME`, `PASSWORD`, `JDBC_DRIVER` in `/util/ConnectionUtil.java` </br>
