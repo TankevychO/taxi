@@ -8,7 +8,7 @@
         </File>
     </Appenders>
     <Loggers>
-        <Logger name="mate.academy" level="info" additivity="false">
+        <Logger name="taxi.academy" level="info" additivity="false">
             <AppenderRef ref="LogToFile"/>
         </Logger>
         <Root level="info | error">
